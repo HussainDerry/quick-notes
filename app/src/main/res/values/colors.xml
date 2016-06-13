@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#513851</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <!-- Drawer menu color -->
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#ffffff</color>
+    <color name="list_background_pressed">#EBEBEB</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+
+    <!-- primary color -->
+    <color name="main_color"	>#00AFEF</color>
+    <color name="text_color"	>#606062</color>
+    <color name="button_color"	>#FAA954</color>
+    <color name="button_color_press"	>#C5C4C4</color>
+    <color name="grey"		>#808080</color>
+
+    <!-- optional prymary color -->
+    <color name="main_blue"		>#00AFEF</color>
+    <color name="main_red"		>#F44336</color>
+    <color name="main_green"	>#8BC34A</color>
+    <color name="main_yellow"	>#FFC107</color>
+
+    <!-- basic color -->
+    <color name="white"		>#ffffff</color>
+    <color name="black"		>#000000</color>
+
+    <!-- other color -->
+    <color name="soft_grey">#EBEBEB</color>
+    <color name="soft_grey2">#DBDBDB</color>
+
+    <string-array name="theme_colors_names">
+        <item >Default</item>
+        <item >Crimson Red</item>
+        <item >Cherry</item>
+        <item >Imperial Purple</item>
+        <item >Dark Lavender</item>
+        <item >Indigo</item>
+        <item >Liberty</item>
+
+        <item >Air Force Blue</item>
+        <item >Light Blue</item>
+        <item >Teal</item>
+        <item >Generic Viridian</item>
+        <item >Green-Cyan</item>
+        <item >Green</item>
+        <item >Light Green</item>
+
+        <item >Amber</item>
+        <item >Orange</item>
+        <item >Deep Orange</item>
+        <item >Café Noir</item>
+        <item >Blue Grey</item>
+        <item >Black</item>
+    </string-array>
+
+    <string-array name="theme_colors_hex">
+        <item >#513851</item>
+        <item >#990000</item>
+        <item >#DE3163</item>
+        <item >#66023C</item>
+        <item >#734F96</item>
+        <item >#3F51B5</item>
+        <item >#545AA7</item>
+
+        <item >#00308F</item>
+        <item >#03A9F4</item>
+        <item >#009688</item>
+        <item >#007F66</item>
+        <item>#009966</item>
+        <item >#4CAF50</item>
+        <item >#8BC34A</item>
+
+        <item >#FFC107</item>
+        <item >#FF9800</item>
+        <item >#FF5722</item>
+        <item >#4B3621</item>
+        <item >#607D8B</item>
+        <item >#000000</item>
+    </string-array>
+
+</resources>
